@@ -56,27 +56,34 @@ Looking at these correlation heatmaps throughout the time period considered may 
 >
 </div>
 
-Before COVID-19: 
+### Before COVID-19: 
 
-High positive correlations are seen among several philosophical clusters, indicating that people who are interested in one philosophical topic are often interested in others as well.
+<ul><li>
+High positive correlations are seen among several philosophical clusters, indicating that people who are interested in one philosophical topic are often interested in others as well.</li>
+</ul>
 
-First Case to Lockdown:
+### First Case to Lockdown:
 
-During the initial phase of the pandemic, there is an overall increase in the correlations between topics, suggesting that the onset of the pandemic led to a more unified interest across different philosophical areas.
-Science philosophies now show strong correlation with other topics, perhaps due to the increased interest in scientific understanding of the pandemic and its implications.
+<ul>
+<li>During the initial phase of the pandemic, there is an overall increase in the correlations between topics, suggesting that the onset of the pandemic led to a more unified interest across different philosophical areas. </li>
+<li>Science philosophies now show strong correlation with other topics, perhaps due to the increased interest in scientific understanding of the pandemic and its implications.</li>
+</ul>
 
-During Lockdown:
+### During Lockdown:
 
-The correlations between topics in this period are generally lower compared to the period from the first case to the lockdown, which might suggest that the topics diverged in terms of pageview behaviors during the lockdown.    
-Science philosophies show a significant correlation with Ethics and Morality that was low before covid, which could be due to discussions about the ethical dimensions of scientific research, public health measures, and the role of science in guiding policy during the crisis.
-Eastern and Western Philosophies appear to have a decreased correlation with other philosophical discussions, possibly indicating that during lockdown, cultural or regional philosophical interests became more concentrated within their own spheres or less influenced by global philosophical trends. Correlation between the 2 as also been divided by two compared to pre-pandemic period, showing some growth in regional interests.
+<ul>
+<li>The correlations between topics in this period are generally lower compared to the period from the first case to the lockdown, which might suggest that the topics diverged in terms of pageview behaviors during the lockdown.   </li>
+<li>Science philosophies show a significant correlation with Ethics and Morality that was low before covid, which could be due to discussions about the ethical dimensions of scientific research, public health measures, and the role of science in guiding policy during the crisis. </li>
+<li>Eastern and Western Philosophies appear to have a decreased correlation with other philosophical discussions, possibly indicating that during lockdown, cultural or regional philosophical interests became more concentrated within their own spheres or less influenced by global philosophical trends. Correlation between the 2 as also been divided by two compared to pre-pandemic period, showing some growth in regional interests.</li>
+</ul>
 
-After Lockdown:
+### After Lockdown:
 
-Globally we see decreased correlations compared to before covid and even lockdown period reflecting a diversification of interests.
-We see that compared to before covid, correlation between ethics and morality and science as more than doubled, it jumped up during lockdown and remained at this level potentially showing persistent change in how people perceive and link science with ethical considerations as a consequence of  the intense ethical debates that characterized the height of the pandemic.
-In essence, lasting changes would be evident if the post-pandemic correlations do not revert to the levels seen in the "Before Covid” heatmap. This would indicate that the pandemic has had an enduring effect on the way people engage with and relate different philosophical topics. A return to the "Before Covid" correlation levels would suggest that the pandemic's impact was temporary and that philosophical interests have normalized as the immediate crisis has receded.
-
+<ul>
+<li>Globally we see decreased correlations compared to before covid and even lockdown period reflecting a diversification of interests.</li>
+<li>We see that compared to before covid, correlation between ethics and morality and science as more than doubled, it jumped up during lockdown and remained at this level potentially showing persistent change in how people perceive and link science with ethical considerations as a consequence of  the intense ethical debates that characterized the height of the pandemic.</li>
+<li>In essence, lasting changes would be evident if the post-pandemic correlations do not revert to the levels seen in the "Before Covid” heatmap. This would indicate that the pandemic has had an enduring effect on the way people engage with and relate different philosophical topics. A return to the "Before Covid" correlation levels would suggest that the pandemic's impact was temporary and that philosophical interests have normalized as the immediate crisis has receded.</li>
+</ul>
 
 
 
